@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chibs
+- 👋 Hi, I’m @chibuikes
 - 👀 I’m interested in  frontend  development
 - 🌱 I’m currently learning  html ,css and java script
 - 💞️ I’m looking to collaborate on frontend projects and gigs
